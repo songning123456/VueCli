@@ -95,8 +95,6 @@ module.exports = {
         tls: 'empty',
         child_process: 'empty'
     },
-    externals: {
-        echarts: 'echarts'
-    }
+    externals: {}
 // 注意这里修改了配置文件 需要重启项目
 };
