@@ -22,7 +22,7 @@
         "babel-preset-stage-3": "^6.24.1",
         "babel-runtime": "^6.26.0",
         "element-resize-detector": "^1.1.15",
-        "element-ui": "^2.12.0",
+        "element-ui": "^2.13.2",
         "px2rem-loader": "^0.1.9",
         "vue": "^2.5.2",
         "vue-router": "^3.0.1",
