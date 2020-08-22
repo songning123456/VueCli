@@ -1,4 +1,4 @@
-# blog-front
+# VueCli
 
 > A Vue.js project
 
